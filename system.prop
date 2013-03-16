@@ -12,8 +12,8 @@ ro.telephony.ril.v3=signalstrength
 ro.telephony.default_network=0
 
 # audio
-lpa.decode=true
-lpa.use-stagefright=true
+lpa.decode=false
+lpa.use-stagefright=false
 
 # bluetooth
 ro.bt.bdaddr_path=/sys/module/htc_bdaddress/parameters/bdaddress
